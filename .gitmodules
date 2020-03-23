@@ -1,3 +1,1 @@
-[submodule "docker-php"]
-	path = docker-php
-	url = https://github.com/elitonluiz1989/docker-php.git
+
