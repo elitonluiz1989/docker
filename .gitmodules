@@ -2,3 +2,6 @@
 [submodule "docker-php-apache"]
 	path = docker-php-apache
 	url = https://github.com/elitonluiz1989/docker-php-apache.git
+[submodule "docker-expo"]
+	path = docker-expo
+	url = https://github.com/elitonluiz1989/docker-expo.git
