@@ -8,3 +8,9 @@
 [submodule "docker-php"]
 	path = docker-php
 	url = https://github.com/elitonluiz1989/docker-php.git
+[submodule "docker-php-oracle"]
+	path = docker-php-oracle
+	url = https://github.com/elitonluiz1989/docker-php-oracle.git
+[submodule "docker-node"]
+	path = docker-node
+	url = https://github.com/elitonluiz1989/docker-node.git
